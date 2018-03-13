@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "196676043881",
+    "firebase_url": "https://geolocation-83fdf.firebaseio.com",
+    "project_id": "geolocation-83fdf",
+    "storage_bucket": "geolocation-83fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196676043881:android:bc9efaa51dcff40b",
+        "android_client_info": {
+          "package_name": "com.example.bet.geolocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196676043881-3krsnond2qlo707ccg0tjso9r2qgn9kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bet.geolocation",
+            "certificate_hash": "071b4df7b19b1494233d044f9c7e34535f9acec6"
+          }
+        },
+        {
+          "client_id": "196676043881-9nvbpq622cmlmdsh64j8mout6dtsts07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBor1c6g6kt4Gj42ADDzdE0kZGof7YnNZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196676043881-9nvbpq622cmlmdsh64j8mout6dtsts07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GEO LOC</string>
+    <string name="button1">sign up</string>
+    <string name="button2">login</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="MENU">PROFILE</string>
+
+</resources>
